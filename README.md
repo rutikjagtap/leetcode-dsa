@@ -35,4 +35,12 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
