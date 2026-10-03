@@ -38,6 +38,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 ## Math
@@ -55,6 +56,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -63,9 +65,14 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
