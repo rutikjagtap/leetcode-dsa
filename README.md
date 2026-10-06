@@ -12,6 +12,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0930-binary-subarrays-with-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0856-score-of-parentheses](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,4 +92,12 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
