@@ -7,6 +7,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
+| [0018-4sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0018-4sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -41,6 +42,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0018-4sum/) | Medium |
 | [0344-reverse-string](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -120,6 +122,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0018-4sum/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
