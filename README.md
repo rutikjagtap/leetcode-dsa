@@ -24,6 +24,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -49,6 +50,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0242-valid-anagram](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0344-reverse-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0856-score-of-parentheses/) | Medium |
@@ -125,6 +127,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0018-4sum/) | Medium |
+| [0242-valid-anagram](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
