@@ -19,6 +19,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
@@ -30,6 +31,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0560-subarray-sum-equals-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -132,6 +134,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0242-valid-anagram](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
