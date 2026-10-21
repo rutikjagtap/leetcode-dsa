@@ -176,6 +176,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,8 +187,13 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
