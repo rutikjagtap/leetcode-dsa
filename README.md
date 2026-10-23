@@ -183,6 +183,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,8 +194,17 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
