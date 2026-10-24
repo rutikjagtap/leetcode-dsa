@@ -18,6 +18,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -131,10 +132,12 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
