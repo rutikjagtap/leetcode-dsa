@@ -63,10 +63,12 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0856-score-of-parentheses](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2409-count-days-spent-together/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
+| [2409-count-days-spent-together](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
