@@ -137,6 +137,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Simulation
@@ -225,4 +226,12 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
