@@ -9,6 +9,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0001-two-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0018-4sum/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0525-contiguous-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0525-contiguous-array/) | Medium |
@@ -45,6 +46,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0525-contiguous-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -53,6 +55,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## Two Pointers
@@ -86,6 +89,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0875-koko-eating-bananas/) | Medium |
