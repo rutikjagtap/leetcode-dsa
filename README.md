@@ -12,6 +12,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0209-minimum-size-subarray-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -81,6 +82,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2409-count-days-spent-together](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Recursion
@@ -159,6 +161,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0018-4sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0018-4sum/) | Medium |
 | [0242-valid-anagram](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
