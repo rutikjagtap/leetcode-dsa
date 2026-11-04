@@ -28,6 +28,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [2089-find-target-indices-after-sorting-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -44,6 +45,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0560-subarray-sum-equals-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3866-first-unique-even-element](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3866-first-unique-even-element/) | Easy |
@@ -62,6 +64,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0209-minimum-size-subarray-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +88,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0050-powx-n](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2409-count-days-spent-together](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2409-count-days-spent-together/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Recursion
@@ -124,6 +128,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0131-palindrome-partitioning](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +178,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
