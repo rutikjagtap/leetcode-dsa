@@ -28,6 +28,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [2073-time-needed-to-buy-tickets](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
@@ -46,6 +47,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0560-subarray-sum-equals-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -65,6 +67,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0209-minimum-size-subarray-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -175,6 +178,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
