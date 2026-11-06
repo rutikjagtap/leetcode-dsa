@@ -256,6 +256,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1791-find-center-of-star-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
