@@ -225,6 +225,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -240,6 +241,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -250,11 +252,13 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0547-number-of-provinces/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
