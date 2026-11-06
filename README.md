@@ -139,6 +139,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +225,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
+| [0797-all-paths-from-source-to-target](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -238,6 +240,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0226-invert-binary-tree/) | Easy |
+| [0797-all-paths-from-source-to-target](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
@@ -252,6 +255,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -265,4 +269,8 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0933-number-of-recent-calls/) | Easy |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 <!---LeetCode Topics End-->
