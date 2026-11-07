@@ -25,6 +25,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1882-process-tasks-using-servers](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -186,6 +187,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Enumeration
