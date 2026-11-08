@@ -22,6 +22,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0974-subarray-sums-divisible-by-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -210,6 +211,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3866-first-unique-even-element](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3866-first-unique-even-element/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -230,6 +232,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0547-number-of-provinces](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -246,6 +249,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0547-number-of-provinces](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0547-number-of-provinces/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -256,6 +260,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0547-number-of-provinces/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -268,6 +273,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
