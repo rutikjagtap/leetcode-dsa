@@ -34,6 +34,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [2778-sum-of-squares-of-special-elements](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -138,6 +139,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0410-split-array-largest-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
