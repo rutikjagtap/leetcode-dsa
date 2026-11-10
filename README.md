@@ -96,6 +96,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2409-count-days-spent-together](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2409-count-days-spent-together/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Recursion
@@ -182,6 +183,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [2089-find-target-indices-after-sorting-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
