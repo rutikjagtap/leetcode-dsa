@@ -98,6 +98,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2409-count-days-spent-together](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2409-count-days-spent-together/) | Easy |
@@ -108,6 +109,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -207,6 +209,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0002-add-two-numbers/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
