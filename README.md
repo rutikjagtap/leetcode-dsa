@@ -8,6 +8,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0018-4sum/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0200-number-of-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -114,6 +115,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -291,6 +293,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0200-number-of-islands/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1267-count-servers-that-communicate/) | Medium |
