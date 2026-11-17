@@ -95,6 +95,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0856-score-of-parentheses](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2409-count-days-spent-together/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -183,6 +184,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
