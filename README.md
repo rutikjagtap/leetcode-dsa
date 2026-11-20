@@ -8,6 +8,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
 | [0018-4sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0018-4sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -49,6 +50,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0242-valid-anagram](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0525-contiguous-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0525-contiguous-array/) | Medium |
