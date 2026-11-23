@@ -137,6 +137,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/rutikjagtap/leetcode-dsa/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -309,6 +310,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rutikjagtap/leetcode-dsa/tree/master/0155-min-stack) |
 | [0933-number-of-recent-calls](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 |  |
