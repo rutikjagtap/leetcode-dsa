@@ -39,6 +39,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [2778-sum-of-squares-of-special-elements](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rutikjagtap/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -81,6 +82,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0930-binary-subarrays-with-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2747-count-zero-request-servers/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rutikjagtap/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Two Pointers
 |  |
@@ -108,6 +110,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0050-powx-n](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0050-powx-n/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [2409-count-days-spent-together](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2409-count-days-spent-together/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rutikjagtap/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -218,6 +221,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rutikjagtap/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
 | ------- |
@@ -320,4 +324,8 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rutikjagtap/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
