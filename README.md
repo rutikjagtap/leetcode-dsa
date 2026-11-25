@@ -30,6 +30,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/rutikjagtap/leetcode-dsa/tree/master/1552-magnetic-force-between-two-balls) |
+| [1572-matrix-diagonal-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rutikjagtap/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1882-process-tasks-using-servers](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1882-process-tasks-using-servers/) | Medium |
@@ -312,6 +313,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0200-number-of-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0200-number-of-islands/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rutikjagtap/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
 ## Design
 |  |
