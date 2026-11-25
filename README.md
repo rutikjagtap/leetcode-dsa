@@ -21,6 +21,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0560-subarray-sum-equals-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
+| [0867-transpose-matrix](https://github.com/rutikjagtap/leetcode-dsa/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -194,6 +195,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/rutikjagtap/leetcode-dsa/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rutikjagtap/leetcode-dsa/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -311,6 +313,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0200-number-of-islands/) | Medium |
+| [0867-transpose-matrix](https://github.com/rutikjagtap/leetcode-dsa/tree/master/0867-transpose-matrix) |
 | [1254-number-of-closed-islands](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/rutikjagtap/leetcode-dsa/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/master/1572-matrix-diagonal-sum) |
