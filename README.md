@@ -338,4 +338,8 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/rutikjagtap/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/rutikjagtap/leetcode-dsa/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
