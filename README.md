@@ -24,6 +24,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0566-reshape-the-matrix](https://github.com/rutikjagtap/leetcode-dsa/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/rutikjagtap/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/rutikjagtap/leetcode-dsa/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -78,6 +79,7 @@ My placement-focused LeetCode DSA solutions, organized by problem-solving patter
 | [0410-split-array-largest-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0525-contiguous-array](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/rutikjagtap/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rutikjagtap/leetcode-dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/rutikjagtap/leetcode-dsa/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
